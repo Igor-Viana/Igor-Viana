@@ -10,7 +10,7 @@
   <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="right" alt="Profile-pic" height="150" style="border-radius:50px;" src="https://im2.ezgif.com/tmp/ezgif-2-6633c8c8ce.gif">
+  <img align="right" alt="Profile-pic" height="150" style="border-radius:50px;" src="./profile-image.gif">
 </div>
   
   ##
